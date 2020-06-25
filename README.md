@@ -1,9 +1,8 @@
 # Femboot-StuSuite
  
 This project is a stusuite with options of Todo Lists, Expenses Calculator & Book Finder.
-
+<hr>
 In the Todo Lists:
-
 We can add tasks.
 We can delete tasks.
 We can cancel and clear all tasks.
