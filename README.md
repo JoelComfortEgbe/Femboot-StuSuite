@@ -3,15 +3,21 @@
 This project is a stusuite with options of Todo Lists, Expenses Calculator & Book Finder.
 <hr>
 In the Todo Lists:
-We can add tasks.
-We can delete tasks.
-We can cancel and clear all tasks.
+<ul>
+<li>We can add tasks.</li>
+<li>We can delete tasks.</li>
+<li>We can cancel and clear all tasks.</li>
+ </ul>
+ <hr>
 In the Expenses Calculator:
-
-Budget can be added.
-Expenses can be added.
-Total budget is seen and expenses are deleted.
+<ul>
+<li>Budget can be added.</li>
+ <li>Expenses can be added.</li>
+<li>Total budget is seen and expenses are deleted.</li>
+ </ul>
+<hr>
 In the Book Finder:
-
-We can search books using keywords.
-Book results will be shown with Book Title, Book Description and Book Authors.
+<ul>
+<li>We can search books using keywords.</li>
+<li>Book results will be shown with Book Title, Book Description and Book Authors.</li>
+</ul>
