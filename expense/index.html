@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Expense Tracker</title>
+		<link rel="stylesheet" href="C:\Users\USER\Desktop\femboot\stusuite1\expense/expense.css">
+		<link rel="icon" href="../resources/images/femcode.jpeg">
+	</head>
+	<body>
+			<div>
+				<img src="C:\Users\USER\Desktop\femboot\stusuite1\resources\Images/FEMCODE AFRICA.png" alt="FemCode logo">
+			<h1 id="expense">Expense Tracker 1.0</h1>
+		</div>
+			<hr>
+			<div id="flex">
+				<div class="budget">
+			<h2>Total Budget : <span id="totalBudget"> 0</span></h2>
+			<h2>Current Balance : <span id="currentBalance"> 0</span></h2>
+			
+			<br><h2>Add money to budget</h2>
+			<input type="number" placeholder="add money" id="money">
+			<button onclick="addMoney()" id="addMoney">Add Money</button>
+		<h2>Add Expenses</h2>
+		<input type="text" placeholder="expense name" id="expenseName"> <br><br>
+		<input type="number" placeholder="add expense" id="expenseAmount"><br> <br> <br>
+			<button onclick="addExpense()" id="addExpense">Add Expense</button>
+		</div>
+		<div class="addedExpenses">
+			
+		
+		<script src="js/expense.js" type="text/javascript"></script>
+	</body>
+</html>
+
